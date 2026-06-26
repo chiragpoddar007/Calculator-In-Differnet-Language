@@ -44,16 +44,6 @@ This repository is intended for:
 - AI models analyzing equivalent implementations
 - Anyone interested in understanding language differences through the same problem
 
-## Repository Structure
-
-calculator-language-comparison/
-├── Python/
-│   └── calculator.py
-├── CPP/
-│   └── calculator.cpp
-└── Java/
-    └── Calculator.java
-
 ## Author
 
 Chirag Poddar
