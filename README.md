@@ -22,7 +22,7 @@ The goal of this project is to compare how the same program is written in differ
 | Language | File |
 |----------|------|
 | Python | `Python/calculator.py` |
-| C++ | `CPP/calculator.cpp` |
+| C++ | `CPP/calculator.cpp`https://github.com/chiragpoddar007/Calculator-In-Differnet-Language/blob/main/Calculator/calculator.cpp |
 | Java | `Java/Calculator.java` |
 
 ## Comparison
