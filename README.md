@@ -21,9 +21,9 @@ The goal of this project is to compare how the same program is written in differ
 
 | Language | File |
 |----------|------|
-| Python | `Python/calculator.py` |
-| C++ | `CPP/calculator.cpp`https://github.com/chiragpoddar007/Calculator-In-Differnet-Language/blob/main/Calculator/calculator.cpp |
-| Java | `Java/Calculator.java` |
+| Python | [`Python/calculator.py`](https://github.com/chiragpoddar007/Calculator-In-Differnet-Language/blob/main/Calculator/calculator.py) |
+| C++ | [`CPP/calculator.cpp`](https://github.com/chiragpoddar007/Calculator-In-Differnet-Language/blob/main/Calculator/calculator.cpp) |
+| Java | [`Java/Calculator.java`](https://github.com/chiragpoddar007/Calculator-In-Differnet-Language/blob/main/Calculator/calculator.java) |
 
 ## Comparison
 
